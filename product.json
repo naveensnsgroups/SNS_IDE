@@ -633,14 +633,5 @@
     "gruntfuggly.todo-tree": {
       "default": false
     }
-  },
-  "trustedExtensionAuthAccess": [
-    "GitHub.copilot",
-    "GitHub.copilot-chat"
-  ],
-  "defaultChatAgent": {
-    "extensionId": "GitHub.copilot-chat",
-    "chatParticipantId": "github.copilot",
-    "documentationUrl": "https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide"
   }
 }
