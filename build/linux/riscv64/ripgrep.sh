@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 
 # microsoft/ripgrep-prebuilt doesn't support riscv64.
 # Tracking PR: https://github.com/microsoft/ripgrep-prebuilt/pull/41

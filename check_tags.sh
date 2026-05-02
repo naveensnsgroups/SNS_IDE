@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 # shellcheck disable=SC2129
 
 # Env Paramaters

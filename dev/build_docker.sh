@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 # shellcheck disable=SC1091
 
 exists() { type -t "$1" &> /dev/null; }

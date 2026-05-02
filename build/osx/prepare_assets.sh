@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 
 if [[ -n "${CERTIFICATE_OSX_P12_DATA}" ]]; then
   if [[ "${CI_BUILD}" == "no" ]]; then

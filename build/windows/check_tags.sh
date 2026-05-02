@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 
 # windows-arm64
 if [[ "${VSCODE_ARCH}" == "arm64" ]]; then

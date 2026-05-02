@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 
 cd vscode || { echo "'vscode' dir not found"; exit 1; }
 

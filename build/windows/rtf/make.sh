@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 
 cd "$( dirname "${BASH_SOURCE[0]}" )"/../../../vscode || { echo "'vscode' dir not found"; exit 1; }
 

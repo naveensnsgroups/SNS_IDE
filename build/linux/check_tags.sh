@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+﻿#!/usr/bin/env bash
 
 if [[ "${CHECK_ONLY_REH}" == "yes" ]]; then
 
